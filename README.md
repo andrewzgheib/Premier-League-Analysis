@@ -18,5 +18,8 @@ The report compromises of 4 pages:
 2. League: Overviews home and away games won by teams, average goals per match, and goals scored per season.
 3. Teams: Describes individual team performance over multiple seasons, including total matches, total goals, and more.
 4. Discpline: Explores the disciplinary records of teams, based on offensive and defensive aggressiveness.
+
+
+https://github.com/andrewzgheib/Premier-League-Analysis/assets/118852647/651d8c33-fa53-4400-a674-255ddcf8a1ff
    
 You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiYjhkMTQzZjYtYmU0MC00MWFlLWIyODUtZmZhYWYyM2MwMTM4IiwidCI6IjJhZDk2OTM0LTQzZTUtNDFjMi05NzYxLWYzMzVmZTIxNGNjMyIsImMiOjl9&pageName=ReportSection)
